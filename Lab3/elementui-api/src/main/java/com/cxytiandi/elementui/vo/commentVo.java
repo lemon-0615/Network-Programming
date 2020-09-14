@@ -1,6 +1,6 @@
 package com.cxytiandi.elementui.vo;
 
-public class commentVo {
+public class CommentVo {
     private String name;
     private String context;
 
